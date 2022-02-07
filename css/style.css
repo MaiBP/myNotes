@@ -1,0 +1,72 @@
+body { 
+     height:100%;
+     margin: 2px;
+     padding: 0;
+}
+.container-fluid{
+  height:100%;
+  display:table;
+  width: 100%;
+  padding: 0;
+  align-items: center;
+  text-align: center;
+}
+.row-fluid {
+  height: 100%; 
+  display:table-cell; 
+  vertical-align: middle;
+}
+ 
+
+.card {
+  float:none;
+  margin:0 auto;
+}
+
+.delete:hover {
+    color: red
+}
+
+.edit:hover {
+  color:rgb(0, 51, 255)
+}
+.post-submit:hover {
+  color:rgb(64, 255, 0)
+}
+/*--------- NAV BAR ---------*/
+/* .navbar-toggler:hover {
+  color:rgb(85, 255, 0)
+} */
+
+
+/*--------- FOOTER ---------*/
+.footer-style {
+  padding: 40px 0px;
+  background-color: rgb(255, 255, 255);
+  color:rgb(48, 48, 48);
+  
+}
+
+.footer-style .social {
+  text-align:center;
+  padding-top: 30px
+}
+
+.footer-style .social > a {
+ font-size: 25px;
+  display:inline-block;
+  text-align:center;
+  margin:0 5px;
+  
+}
+
+.footer-style .social > a:hover {
+  color:rgb(206, 2, 104)
+}
+
+.footer-style .copyright {
+  text-align:center;
+  font-size:15px;
+  color:rgb(43, 42, 43);
+  margin-bottom:0;
+}
