@@ -1,6 +1,6 @@
 # myNotes
 This was created from Brad Traversy Tutorials in a Udemy Course.
-I built a pure javascrip app (no frameworks) using a "fake" json server to mimic a rest API and it stores the data in local storage. There's also an http library.
+I built a pure javascrip app (no frameworks) using a "fake" json server to mimic a rest API and it stores the data in local storage. There's also an http library. I used bootstrap library and bootswatch style (https://bootswatch.com/sketchy/). 
 
 
 
